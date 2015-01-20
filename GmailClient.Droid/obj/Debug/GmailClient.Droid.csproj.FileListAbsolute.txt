@@ -1,0 +1,14 @@
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\bin\Debug\GmailClientApp.dll
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\bin\Debug\GmailClientApp.pdb
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\bin\Debug\GmailClientApp.dll.mdb
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\bin\Debug\GmailClientApp.GmailClientApp.apk
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\bin\Debug\GmailClientApp.GmailClientApp-Signed.apk
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\obj\Debug\GmailClient.Droid.csprojResolveAssemblyReference.cache
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\obj\Debug\GmailClientApp.dll
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\obj\Debug\GmailClientApp.pdb
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\obj\Debug\android\bin\GmailClientApp.GmailClientApp.apk
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\obj\Debug\res\layout\main.xml
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\obj\Debug\res\values\strings.xml
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\obj\Debug\res\drawable\icon.png
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\obj\Debug\R.cs.flag
+C:\GithubRepos\GmailClientApp\GmailClient.Droid\obj\Debug\uploadflags.txt

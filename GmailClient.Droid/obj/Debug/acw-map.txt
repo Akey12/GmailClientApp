@@ -1,0 +1,1 @@
+GmailClientApp.MainActivity;gmailclientapp.MainActivity

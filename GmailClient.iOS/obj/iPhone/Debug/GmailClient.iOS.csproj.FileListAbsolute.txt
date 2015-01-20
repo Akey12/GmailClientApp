@@ -1,0 +1,6 @@
+C:\GithubRepos\GmailClientApp\GmailClient.iOS\bin\iPhone\Debug\GmailClientiOS.exe
+C:\GithubRepos\GmailClientApp\GmailClient.iOS\bin\iPhone\Debug\GmailClientiOS.pdb
+C:\GithubRepos\GmailClientApp\GmailClient.iOS\obj\iPhone\Debug\
+C:\GithubRepos\GmailClientApp\GmailClient.iOS\obj\iPhone\Debug\GmailClient.iOS.csprojResolveAssemblyReference.cache
+C:\GithubRepos\GmailClientApp\GmailClient.iOS\obj\iPhone\Debug\GmailClientiOS.exe
+C:\GithubRepos\GmailClientApp\GmailClient.iOS\obj\iPhone\Debug\GmailClientiOS.pdb

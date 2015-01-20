@@ -1,0 +1,5 @@
+C:\GithubRepos\GmailClientApp\GmailClient.Core\bin\Debug\GmailClient.Core.dll
+C:\GithubRepos\GmailClientApp\GmailClient.Core\bin\Debug\GmailClient.Core.pdb
+C:\GithubRepos\GmailClientApp\GmailClient.Core\obj\Debug\GmailClient.Core.csprojResolveAssemblyReference.cache
+C:\GithubRepos\GmailClientApp\GmailClient.Core\obj\Debug\GmailClient.Core.dll
+C:\GithubRepos\GmailClientApp\GmailClient.Core\obj\Debug\GmailClient.Core.pdb
